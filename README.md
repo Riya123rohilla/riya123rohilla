@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/riya123rohilla/riya123rohilla/main/image.jpg" height="400" width="100%" />
+</p>
+
 # 💫 About Me:
 I’m Riya Rohilla, a BCA student and frontend developer with a strong foundation in HTML5, CSS3, JavaScript (ES6+), and React.js. I focus on building clean, structured, and user-centric interfaces with an emphasis on code quality and maintainability.<br><br>My journey began with mastering core web technologies and gradually expanding into component-based UI development, DOM manipulation, and state-driven applications. Alongside frontend development, I actively strengthen my skills in Python programming and Data Structures & Algorithms (DSA) to improve logical thinking and problem-solving efficiency.<br><br>I believe in learning by building, applying concepts through real-world projects, and continuously improving my technical depth through consistent practice and implementation.
 
